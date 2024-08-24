@@ -1,0 +1,4 @@
+[core]
+    remote = bohr
+['remote "bohr"']
+    url = ssh://jesusferrandiz@bohr:/home/jesusferrandiz/datasets/dvc_remote/coco_128_dataset
